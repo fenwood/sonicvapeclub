@@ -39,7 +39,7 @@ import "../styles/Home.css";
 
 function Home() {
   var presentDate = new Date();
-  var launchDate = new Date("2021/11/1 19:00:00");
+  var launchDate = new Date("2021/11/18 19:00:00");
 
   const hRedStyle = { color: "red" };
   const hBlueStyle = { color: "blue" };
