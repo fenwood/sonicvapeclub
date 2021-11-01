@@ -17,7 +17,7 @@ const data = {
     },
     {
       title: "When are you launching?",
-      content: `Our drop date is set for 2021-11-01. Follow us on Twitter for updates and giveaway opportunities. `,
+      content: `Our drop date is set for 2021-11-18. Follow us on Twitter for updates and giveaway opportunities. `,
     },
     {
       title: "How can I aquire a Stick Up Kid?",
