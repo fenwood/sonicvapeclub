@@ -101,8 +101,8 @@ function Home() {
           <h2 style={hWhiteStyle}>NFT Collection</h2>
           <h2 style={hBlueStyle}>The grimiest NFT collection on the chain</h2>
           <h2 style={hWhiteStyle}>Presale begins in {strDate}</h2>
-          <a href="https://stickupkidsnft.com" target="_blank" rel="noreferrer">
-            <button>Mint Now</button>
+          <a href="/contact" rel="noreferrer">
+            <button>Join Whitelist</button>
           </a>
         </div>
       </div>

@@ -47,10 +47,10 @@ function Contact() {
         <h1>Request Whitelist Access</h1>
 
         <form id="contact-form" name="contact" required onSubmit={sendData}>
-          <label htmlFor="name">Full Name</label>
+          <label htmlFor="name">Username</label>
           <input
             name="name"
-            placeholder="Name"
+            placeholder="Enter your twitter or discord username"
             type="text"
             required
             onChange={handleInput}
