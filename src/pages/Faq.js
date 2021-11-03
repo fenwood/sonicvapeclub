@@ -31,7 +31,7 @@ const data = {
     {
       title: "What are the tokenomics?",
       content:
-        "Presale 100 tokens @ .01 ETH, Earlybird 1000 tokens @ .025 ETH, Remaining tokens @ .045 ETH. Every 1000 mints a random Stick Up Kid hodler will be recieve 10% of initial sales. 10% of initial and 5% of secondary sales going to charity.",
+        "Presale 100 tokens @ .01 ETH, Earlybird 1000 tokens @ .02 ETH, Remaining tokens @ .045 ETH. Every 1,000 mints a random Stick Up Kid hodler will be recieve 10% of initial sales. 10% of initial and 5% of secondary sales going to charity.",
     },
     {
       title: "How many are you giving away?",
@@ -41,7 +41,7 @@ const data = {
     {
       title: "How much does each Stick Up Kid cost?",
       content:
-        "The firs 100 will be minted at .02 ETH, the next 400 at .03 and the remainder at .04.",
+        "The first 100 tokens will be minted at .01 ETH, the next 1,000 at .02 and the remainder at .045.",
     },
     {
       title: "Will there be resale royalties?",

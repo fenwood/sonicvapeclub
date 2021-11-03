@@ -9,13 +9,13 @@ function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <a href="https://opensea.io">
+        <a href="https://opensea.io/stickupkids">
           <OpenSeaIcon height="40px" width="40px" />
         </a>{" "}
-        <a href="https://twitter.com">
+        <a href="https://twitter.com/sonicvapeclub">
           <TwitterIcon height="40px" width="40px" />
         </a>{" "}
-        <a href="https://discord.com">
+        <a href="https://discord.gg/WtzBaWbyd4">
           <DiscordIcon height="40px" width="40px" />
         </a>
       </div>
