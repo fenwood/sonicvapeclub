@@ -38,15 +38,15 @@ import "../styles/Home.css";
 // import CountDownTimer from "../components/CountDownTimer";
 
 function Home() {
-  var presentDate = new Date();
-  var launchDate = new Date("2021/11/18 19:00:00");
+//  var presentDate = new Date();
+//  var launchDate = new Date("2021/11/18 19:00:00");
 
   const hRedStyle = { color: "red" };
   const hBlueStyle = { color: "blue" };
   const hWhiteStyle = { color: "white" };
   const hYellowStyle = { color: "yellow" };
   //  const hBlackStyle = { color: "black" };
-
+/*
   function timeDiffCalc(dateFuture, dateNow) {
     let diffInMilliSeconds = Math.abs(dateFuture - dateNow) / 1000;
 
@@ -80,8 +80,8 @@ function Home() {
 
     return difference;
   }
-
-  var strDate = timeDiffCalc(new Date(presentDate), new Date(launchDate));
+*/
+  // var strDate = timeDiffCalc(new Date(presentDate), new Date(launchDate));
 
   // the time difference is:
   // 1 day, 14 hours, 10 minutes
@@ -100,9 +100,9 @@ function Home() {
           </h1>
           <h2 style={hWhiteStyle}>NFT Collection</h2>
           <h2 style={hBlueStyle}>The grimiest NFT collection on the chain</h2>
-          <h2 style={hWhiteStyle}>Presale begins in {strDate}</h2>
-          <a href="/contact" rel="noreferrer">
-            <button>Join Whitelist</button>
+          <h2 style={hRedStyle}>Presale is on now</h2>
+          <a href="https://www.stickupkidsnft.com" target="_blank" rel="noreferrer">
+            <button>MINT NOW</button>
           </a>
         </div>
       </div>
@@ -115,17 +115,17 @@ function Home() {
             <h4>Randomly Assigned</h4>
           </div>
           <div className="cardItem-aqua">
-            <h2>.01 ETH</h2>
+            <h2>10 MATIC</h2>
             <h3>Presale</h3>
             <h4>Whitelist Only</h4>
           </div>
           <div className="cardItem-pink">
-            <h2>.025 ETH</h2>
+            <h2>20 MATIC</h2>
             <h3>Earlybird</h3>
             <h4>First 1,000 mints</h4>
           </div>
           <div className="cardItem-purple">
-            <h2>.045 ETH</h2>
+            <h2>45 MATIC</h2>
             <h3>Final Price</h3>
             <h4>Tokens 1000+</h4>
           </div>

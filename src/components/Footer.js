@@ -22,7 +22,7 @@ function Footer() {
       <p>
         {" "}
         &copy; 2021 sonicvapeclub.com |{" "}
-        <a href="https://etherscan.io/">Etherscan Contract</a>
+        <a href="https://polygonscan.com/address/0x3469791488094946D6aAd4497A12245e036D6A87">Polygonscan Contract</a>
       </p>
     </div>
   );

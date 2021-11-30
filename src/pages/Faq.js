@@ -8,7 +8,7 @@ const data = {
   rows: [
     {
       title: "What is the Stick Up Kids Project?",
-      content: `The Stick Up Kids are set of 10,000 unique, randomly generated avatars terrorizing the Ethereum blockchain as ERC-721 tokens. Brought to you by the Sonic Vape Club, the Stick Up Kids are the grimiest NFTs on the chain right now.`,
+      content: `The Stick Up Kids are set of 10,000 unique, randomly generated avatars terrorizing the Polygon blockchain as ERC-721 tokens. Brought to you by the Sonic Vape Club, the Stick Up Kids are the grimiest NFTs on the chain right now.`,
     },
     {
       title: "How many Stick Up Kids are there?",
@@ -21,7 +21,7 @@ const data = {
     },
     {
       title: "How can I aquire a Stick Up Kid?",
-      content: `Stick Up Kids will be available for purchase on our website through an initial token offering. At the time of purchase, a randomly selected Stick Up Kid will be minted on the Ethereum block chain and delivered directly to your wallet. You will need a wallet such as metamask with some eth to make the purchase.`,
+      content: `Stick Up Kids will be available for purchase on our website through an initial token offering. At the time of purchase, a randomly selected Stick Up Kid will be minted on the Polygon block chain and delivered directly to your wallet. You will need a wallet such as metamask with some MATIC to make the purchase.`,
     },
     {
       title: "How were they created?",
@@ -31,7 +31,7 @@ const data = {
     {
       title: "What are the tokenomics?",
       content:
-        "Presale 100 tokens @ .01 ETH, Earlybird 1000 tokens @ .02 ETH, Remaining tokens @ .045 ETH. Every 1,000 mints a random Stick Up Kid hodler will be recieve 10% of initial sales. 10% of initial and 5% of secondary sales going to charity.",
+        "Presale 100 tokens @ 10 MATIC, Earlybird 1,000 tokens @ 20 MATIC, Remaining tokens @ 45 MATIC. Every 1,000 mints a random Stick Up Kid hodler will be recieve 10% of initial sales. 10% of initial and 5% of secondary sales going to charity.",
     },
     {
       title: "How many are you giving away?",
@@ -41,7 +41,7 @@ const data = {
     {
       title: "How much does each Stick Up Kid cost?",
       content:
-        "The first 100 tokens will be minted at .01 ETH, the next 1,000 at .02 and the remainder at .045.",
+        "The first 100 tokens will be minted at 10 MATIC, the next 1,000 at 20 MATIC and the remainder at 45 MATIC.",
     },
     {
       title: "Will there be resale royalties?",

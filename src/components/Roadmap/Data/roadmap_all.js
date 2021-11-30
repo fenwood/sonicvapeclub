@@ -9,7 +9,7 @@ export const projects = [
   {
     title: "1% :: Pre-Sale",
     desc_1: "On November 1,2021 we will be minting 100 Stick Up Kids ",
-    desc_2: "Each token will be on sale at a special price of .01 ETH",
+    desc_2: "Each token will be on sale at a special price of 10 MATIC",
     desc_3: "Whitelist only",
     link: "",
   },
@@ -17,14 +17,14 @@ export const projects = [
     title: "10% :: Earlybird",
     desc_1:
       "900 Stick Up NFTs will be minted to the general public at the early bird price",
-    desc_2: "Each token will be on sale at .025 ETH",
+    desc_2: "Each token will be on sale at 20 MATIC",
     desc_3:
       "After 1,000 tokens are minted a random tokenholder will receive 10% of initial sales!",
     link: "",
   },
   {
     title: "30% :: Charity & Development",
-    desc_1: "Up to 9 ETH given away to random hodlers",
+    desc_1: "Up to 11,000 MATIC given away to random hodlers",
     desc_2: "10% charity donation",
     desc_3: "Free air drops for random Stick Up Kids hodlers",
     link: "",
@@ -32,7 +32,7 @@ export const projects = [
   {
     title: "50% :: Rarity Tools",
     desc_1: "10% to charity donation",
-    desc_2: "Another 9 ETH given away at random",
+    desc_2: "Up to 11,000 MATIC given away at random",
     desc_3: "Add Stick Up Kids to Rarity Tools",
     link: "",
   },
